@@ -1,1 +1,1 @@
-This file isn't empty yet.
+This file isn't empty yet. Hello World! It's the server side. :)
